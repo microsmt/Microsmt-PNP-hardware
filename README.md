@@ -1,7 +1,8 @@
 # Microsmt-pnpboard
 # Introduction
   We are building a circuit board suitable for OPENPNP. All its functions are only for OPENPNP.
-
+  
+#  About the mainboard
 The schematic diagram of microsmt pnpboard is modified from the open source document of smoothieboard, mainly as follows:
 
 1: The network module and temperature measurement module are deleted because they are meaningless to the PNP machine.

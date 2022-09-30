@@ -14,3 +14,4 @@ The schematic diagram of microsmt pnpboard is modified from the open source docu
 4：We do not have a separate software version. It is recommended to obtain the firmware dedicated to OPENPNP from the following link. It is contributed by makr.
                   https://makr.zone/smoothieware-new-firmware-for-pnp/500/
 #  Thank  
+ 

@@ -1,4 +1,6 @@
 # Microsmt-pnpboard
+# Introduction
+  We are building a circuit board suitable for OPENPNP. All its functions are only for OPENPNP.
 
 The schematic diagram of microsmt pnpboard is modified from the open source document of smoothieboard, mainly as follows:
 
@@ -10,3 +12,4 @@ The schematic diagram of microsmt pnpboard is modified from the open source docu
 
 4：We do not have a separate software version. It is recommended to obtain the firmware dedicated to OPENPNP from the following link. It is contributed by makr.
                   https://makr.zone/smoothieware-new-firmware-for-pnp/500/
+#  Thank  

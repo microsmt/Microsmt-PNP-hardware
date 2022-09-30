@@ -1,7 +1,7 @@
 # Microsmt-pnpboard
 # Introduction
   We are building a circuit board suitable for OPENPNP. All its functions are only for OPENPNP.
-  
+   
 #  About the mainboard
 The schematic diagram of microsmt pnpboard is modified from the open source document of smoothieboard, mainly as follows:
 
@@ -9,9 +9,11 @@ The schematic diagram of microsmt pnpboard is modified from the open source docu
 
 2: The A5984 driver chip is replaced by the easier and cheaper TMC2209 driver module, so the electronic potentiometer MCP4451 is useless. When you need to change the drive current, you need to use a screwdriver to turn the mechanical potentiometer on the TMC2209 module
 
-3: Some chips have been replaced with brands with the same parameters but easier to buy.
+4: 3pcs freewheeling diodes is connected in parallel to the drive mos of the vacuum pump and relay. avoid the reverse current of the motor damage the mos.
 
-4：We do not have a separate software version. It is recommended to obtain the firmware dedicated to OPENPNP from the following link. It is contributed by makr.
+5: Some chips have been replaced with brands with the same parameters but easier to buy.
+
+6：We do not have a separate software version. It is recommended to obtain the firmware dedicated to OPENPNP from the following link. It is contributed by makr.
                   https://makr.zone/smoothieware-new-firmware-for-pnp/500/
                   
 #  Notice

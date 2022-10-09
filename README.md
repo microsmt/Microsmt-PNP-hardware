@@ -1,4 +1,4 @@
-# Microsmt-pnpboard
+# Microsmt-PNP-hardwware
 # Introduction
   We are building a circuit board suitable for OPENPNP. All its functions are only for OPENPNP.
    

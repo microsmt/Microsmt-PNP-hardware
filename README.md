@@ -17,6 +17,11 @@
                   
 #  Notice
   The  sch  and  pcb  document   only  open with  AD.
+  
+# No.2  PNP  Frame
+ 1： We used aluminum alloy profiles and laser cut aluminum plates to build a low cost but strong framework.The advantage of aluminum cutting piece is that its strength is much higher than that of 3D printing piece, and its accuracy will not be changed due to deformation
+ 2：it  can adjust the height of the platform and the height of feeder  at will,So as to adapt to different lengths of holders.
+ 3: It is so simple that you can copy without even needing drawings.
 
 #  Thank  
  

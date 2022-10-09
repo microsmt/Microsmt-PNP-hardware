@@ -22,7 +22,6 @@
  
  2：it  can adjust the height of the platform and the height of feeder  at will,So as to adapt to different lengths of holders.
  
- 3: It is so simple that you can copy without even needing drawings.
 
 #  Thank  
  

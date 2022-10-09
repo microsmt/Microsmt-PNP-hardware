@@ -2,12 +2,11 @@
 # Introduction
   We are building hardware suitable for OPENPNP. All its functions are only for OPENPNP.
 # No.1  PNP Mainboard
-   About the pnp  mainboard
-The schematic diagram of microsmt pnpboard is modified from the open source document of smoothieboard, mainly as follows:
+ 1:About the pnp  mainboard The schematic diagram of microsmt pnpboard is modified from the open source document of smoothieboard, mainly as follows:
 
-1: The network module and temperature measurement module are deleted because they are meaningless to the PNP machine.
+ 2: The network module and temperature measurement module are deleted because they are meaningless to the PNP machine.
 
-2: The A5984 driver chip is replaced by the easier and cheaper TMC2209 driver module, so the electronic potentiometer MCP4451 is useless. When you need to change the drive current, you need to use a screwdriver to turn the mechanical potentiometer on the TMC2209 module
+ 3: The A5984 driver chip is replaced by the easier and cheaper TMC2209 driver module, so the electronic potentiometer MCP4451 is useless. When you need to change the drive current, you need to use a screwdriver to turn the mechanical potentiometer on the TMC2209 module
 
 4: 3pcs freewheeling diodes is connected in parallel to the drive mos of the vacuum pump and relay. avoid the reverse current of the motor damage the mos.
 
